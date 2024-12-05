@@ -1,16 +1,14 @@
 # navigation
 
-A new Flutter project.
+Project Fultter Bertujuan Untuk memahami penggunaan Routes Dan Navigation pada Flutter
 
-## Getting Started
+## Pembahasan mengenai Metode-Metode Routes Dan Navigation
 
-This project is a starting point for a Flutter application.
+### Navigation.push
+Navigation.push adalah metode dasar dalam Flutter yang digunakan untuk mendorong rute baru ke dalam tumpukan navigasi, sehingga pengguna dapat bergerak maju dalam aplikasi. Bagian ini menjelaskan peran Navigation.push, signifikansinya dalam navigasi aplikasi, dan termasuk demonstrasi langsung menggunakan Navigation.push untuk menavigasi ke layar baru.
 
-A few resources to get you started if this is your first Flutter project:
+### Navigation.pop
+Navigation.pop adalah metode penting dalam sistem navigasi Flutter, yang bertanggung jawab untuk kembali ke layar atau rute sebelumnya. Memahami tujuan Navigation.pop dan cara mengimplementasikannya sangat penting untuk menciptakan alur navigasi yang kohesif dan mudah digunakan. Bagian ini memberikan penjelasan rinci tentang Navigation.pop dan termasuk demonstrasi praktis penerapannya.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mengenai isi Kode
+Kode ini memiliki 3 page dan user dapat berpindah page sesuka hati, user dapat menggunakan "Burger List", "Bottom Navbar", atau langsung menggunakan tombol yang ada di tengah layar, dengan mengimplementasikan Navigation.Push dan Navigation.pop dalam perpindahan pagenya

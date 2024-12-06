@@ -22,7 +22,7 @@ Kode ini memiliki 3 page dan user dapat berpindah page sesuka hati, user dapat m
 ### Langkah-langkah Instalasi
 1. Clone repositori ini ke komputer Anda:
    bash
-   git clone https://github.com/denywa/navigation_codelab.git
+   git clone [https://github.com/Apryadi/navigation.git]
    
 2. Navigasikan ke direktori proyek:
    bash
